@@ -1,0 +1,1 @@
+This project holds a lot of useful resources about building an embedded linux distribution. They are gathered from the internet webs and the openembedded building tools are picked from the www.openembedded.org .
